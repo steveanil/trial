@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn how to update create react app into git.
+          Learn how to clone and update react app into git.
         </a>
       </header>
     </div>
